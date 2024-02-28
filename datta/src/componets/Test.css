@@ -1,0 +1,37 @@
+.input-brand-con{
+    border-bottom: 3px dotted #70bbff;
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input-contener{
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 1px solid #70bbff;
+    width: 300px;
+}
+.btn-add{
+    border: none;
+    background-color: #fff;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius:50%;
+    padding: -10px;
+    /* border-radius:50%;
+    height: 40px;
+    width: 40px; */
+
+}
+.img-add-btn{
+    height: 50px;
+   
+    width: 50px;
+}
